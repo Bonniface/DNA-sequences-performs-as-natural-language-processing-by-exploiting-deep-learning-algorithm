@@ -1,0 +1,6 @@
+VARIABLENAME,VARIABLE DESCRIPTION
+ID,Unique ID for each row.
+Sequence,"1000-base pair (bp) DNA sequence with letters corresponding to the nucleotides (i.e., A, G, C, & T for the 4 nucleotide bases)."
+Chromosome,Distinct organizational units of the cassava genome
+Region,The region of the considered Sequence
+Target,"This is what you are predicting: 1 if the middle 200 bp region of the given sequence overlaps with an enhancer region by more than 50% of its length. Otherwise, 0."

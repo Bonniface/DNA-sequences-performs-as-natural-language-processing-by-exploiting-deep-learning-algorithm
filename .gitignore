@@ -1,0 +1,13 @@
+# files related to the hcv_bcr_example
+*.model
+*igh.tsv
+*corpus.txt
+classification_report.csv
+cutoff_thresholds.tsv
+*prepared*.tsv
+*dataset.tsv
+*.npy
+hcv_bcr_prepared_filtered.tsv
+hcv_bcr_splits/
+.idea/
+*__pycache__
